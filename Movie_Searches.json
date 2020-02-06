@@ -1,0 +1,156 @@
+[
+    {
+        "Title": "When Harry Met Sally...",
+        "Year": "1989",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "Betyg: 7.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "Betyg: 90%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "Betyg: 76/100"
+            }
+        ],
+        "imdbID": "tt0098635"
+    },
+    {
+        "Title": "Dumbo",
+        "Year": "2019",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.3/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "47%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "51/100"
+            }
+        ],
+        "imdbID": "tt3861390"
+    },
+    {
+        "Title": "Boost",
+        "Year": "2016",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "4.8/10"
+            }
+        ],
+        "imdbID": "tt3263096"
+    },
+    {
+        "Title": "Svart Död",
+        "Year": "2011",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.1/10"
+            }
+        ],
+        "imdbID": "tt2049542"
+    },
+    {
+        "Title": "Introducing Dorothy Dandridge",
+        "Year": "1999",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "83%"
+            }
+        ],
+        "imdbID": "tt0172348"
+    },
+    {
+        "Title": "Mad Mission 3: Our Man from Bond Street",
+        "Year": "1984",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "5.9/10"
+            }
+        ],
+        "imdbID": "tt0088457"
+    },
+    {
+        "Title": "Hello, My Name Is Doris",
+        "Year": "2015",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.6/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "84%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "63/100"
+            }
+        ],
+        "imdbID": "tt3766394"
+    },
+    {
+        "Title": "Metallica: Live Shit - Binge & Purge, Seattle",
+        "Year": "1993",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "9.0/10"
+            }
+        ],
+        "imdbID": "tt1700430"
+    },
+    {
+        "Title": "From Hell",
+        "Year": "2001",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.8/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "57%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "54/100"
+            }
+        ],
+        "imdbID": "tt0120681"
+    },
+    {
+        "Title": "Die Another Day",
+        "Year": "2002",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.1/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "58%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "56/100"
+            }
+        ],
+        "imdbID": "tt0246460"
+    }
+]
